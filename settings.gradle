@@ -1,0 +1,4 @@
+include ':app:menu'
+include ':app:view_groups'
+include ':app'
+rootProject.name = "Hello world"
