@@ -11,10 +11,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/andoidvectors" />
+            <option value="$PROJECT_DIR$/androidanimation" />
+            <option value="$PROJECT_DIR$/androidaudio" />
+            <option value="$PROJECT_DIR$/androidtimer" />
+            <option value="$PROJECT_DIR$/androidvideo" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/menu" />
             <option value="$PROJECT_DIR$/app/view_groups" />
             <option value="$PROJECT_DIR$/menuoptions" />
+            <option value="$PROJECT_DIR$/musicshop" />
+            <option value="$PROJECT_DIR$/tictac" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
